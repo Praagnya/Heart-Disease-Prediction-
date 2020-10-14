@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-
+# Heart-Disease-Prediction
 Diagnosing Heart Disease Using Machine Learning 
 
 Out of all the applications of machine-learning, diagnosing any serious disease using a black box is always going to be a hard sell. If the output from a model is the particular course of treatment (potentially with side-effects), or surgery, or the absence of treatment, people are going to want to know why.
